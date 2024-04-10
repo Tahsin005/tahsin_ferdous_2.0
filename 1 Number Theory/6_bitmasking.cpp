@@ -6,6 +6,21 @@ using namespace std;
     workers. Each worker is available during some days of this month (which has 30 days). For each worker, you are given a set of numbers, each from interval [1,30]
     , representing his/her availability. You need to assign an important project to two workers but they will be able to work on the project only when they are both available. Find two workers that are best for the job — maximize the number of days when both these workers are available.
 */
+
+/*
+    Input:
+        5
+        4
+        1 4 7 9
+        6
+        2 9 1 7 25 29
+        7
+        1 23 4 7 9 11 29
+        10
+        2 28 8 7 9 10 30 21 18 19
+        4
+        1 11 29 7
+*/
 int main(){
     int n; cin >> n;
     vector<int> masks(n);
