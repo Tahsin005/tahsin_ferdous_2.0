@@ -1,3 +1,10 @@
-2147483647
-2147483647
-4294967295
+00000001001
+Set bit
+00000001101
+00000000001
+00000001001
+Count number of set bits
+Cnt : 2
+Builtin function to count the number of set bits (for integer) : 2
+Builtin function to count the number of set bits (for long long) : 1
+Builtin function to count the number of set bits (for long long) : 35
