@@ -1,10 +1,33 @@
-00000001001
-Set bit
-00000001101
-00000000001
-00000001001
-Count number of set bits
-Cnt : 2
-Builtin function to count the number of set bits (for integer) : 2
-Builtin function to count the number of set bits (for long long) : 1
-Builtin function to count the number of set bits (for long long) : 35
+8 is a power of two
+Odd
+A
+00001000001
+B
+00001000010
+C
+00001000011
+D
+00001000100
+E
+00001000101
+a
+00001100001
+b
+00001100010
+c
+00001100011
+d
+00001100100
+e
+00001100101
+A to a
+a
+a to A
+A
+Y to y : y
+y to Y : Y
+Clear till the ith least significant bit
+00000111011
+00000100000
+Clear till the ith most significant bit
+00000001011
