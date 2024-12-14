@@ -17,7 +17,8 @@ class Solution {
             n /= 10;
         }
 
-        return cnt;
+        // return cnt;
+        return (int)log10(n) + 1;
     }
 };
 
