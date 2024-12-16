@@ -32,7 +32,7 @@ int main(){
 
 
     if (isNegativePower) {
-        ans = 1 / ans;
+        ans = 1.0 / ans;
     }
 
     cout << ans << '\n';
