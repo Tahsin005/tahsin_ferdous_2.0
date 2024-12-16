@@ -12,7 +12,7 @@ int main(){
 
     int ans = 1;
 
-    // logN
+    // Time complexity - logN
 
     while (n > 0) {
         if (n & 1) {
@@ -23,7 +23,6 @@ int main(){
             x *= x;
         }
     }
-
     cout << ans << '\n';
     return 0;
 }
