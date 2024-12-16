@@ -1,0 +1,10 @@
+SPF of 4 : 2
+SPF of 9 : 3
+SPF of 11 : 11
+SPF of 99 : 3
+SPF of 100 : 2
+SPF of 27 : 3
+SPF of 57 : 3
+SPF of 41 : 41
+SPF of 33 : 3
+SPF of 49 : 7
